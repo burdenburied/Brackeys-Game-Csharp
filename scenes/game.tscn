@@ -1,6 +1,6 @@
 [gd_scene load_steps=13 format=4 uid="uid://c4c78we2xnewe"]
 
-[ext_resource type="Script" uid="uid://c74w73tkfiyo2" path="res://scripts/GameManager.cs" id="1_gee14"]
+[ext_resource type="Script" uid="uid://brdg5255ys7tx" path="res://scripts/game_manager.gd" id="1_gee14"]
 [ext_resource type="TileSet" uid="uid://dn13gi6l8kgwr" path="res://assets/sprites/world_tileset.tres" id="1_iywne"]
 [ext_resource type="PackedScene" uid="uid://de82dn3ktvkvk" path="res://scenes/player.tscn" id="1_uwrxv"]
 [ext_resource type="PackedScene" uid="uid://chkutmooodt38" path="res://scenes/killzone.tscn" id="2_iywne"]
